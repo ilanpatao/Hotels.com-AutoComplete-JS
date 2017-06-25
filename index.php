@@ -68,6 +68,6 @@ crossorigin="anonymous"></script>
 integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
 crossorigin="anonymous"></script>
 <!-- Hotel Autocomplete JS -->
-<script src="js/autocomplete.js"></script>
+<script src="autocomplete.js"></script>
 </body>
 </html>
